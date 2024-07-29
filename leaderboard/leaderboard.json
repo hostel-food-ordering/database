@@ -1,14 +1,14 @@
 [
   {
-    "_id": "66a01cf8ab769469a77d1b06",
+    "_id": "66a03ec11e6c11801b744744",
     "name": "Shubham Raj",
     "college": "IIT Bombay",
-    "points": 40
+    "points": 0
   },
   {
-    "_id": "66a6e27f6322829ee147d059",
-    "name": "Ankit Yadav",
-    "college": "IIT Bombay",
-    "points": 110
+    "_id": "66a042761e6c11801b744757",
+    "name": "Nikhil Yadav",
+    "college": "AIT Pune",
+    "points": 200
   }
 ]
