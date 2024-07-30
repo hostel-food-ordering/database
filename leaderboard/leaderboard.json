@@ -10,5 +10,11 @@
     "name": "Nikhil Yadav",
     "college": "AIT Pune",
     "points": 150
+  },
+  {
+    "_id": "66a87de33675b8f8141c478f",
+    "name": "Shinchan Nohara",
+    "college": "MIT Manipal",
+    "points": 0
   }
 ]
